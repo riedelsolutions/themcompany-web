@@ -1,0 +1,75 @@
+body{
+	background-color: black;
+	color:white;
+	font-family: 'Muli', sans-serif;
+}
+
+h1{
+	font-size: 3.052em;
+	text-align: center;
+}
+
+h2{
+	font-size: 2.441em;
+}
+
+h3{
+	font-size: 1.953em;
+}
+
+h4{
+	font-size: 1.563em;
+}
+
+p{
+	font-size:18px;
+	max-width: 65%;
+}
+
+.landing{
+	margin-top: 150px;
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.whitem{
+	max-width: 20%;
+}
+
+.title,footer{
+	color: #383838;
+}
+
+
+.product-img{
+	max-width: 60%;
+	border-radius: 8px;
+}
+
+.vanish{
+	max-width: 20%;
+	margin-top: 70px;
+}
+
+a{
+	text-decoration: none;
+	border-bottom: 1px solid white;
+}
+
+a:hover{
+	border-bottom: 2px solid white;
+}
+
+a:visited{
+	text-decoration: none;
+	color: white;
+}
+
+footer{
+	font-size: 14px;
+	padding: 20px;
+}
